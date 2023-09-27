@@ -8,19 +8,7 @@ echo -e "\e[32m
 ███████║██║     ╚██████╗██║███████╗ ╚████╔╝ ███████╗   ██║   
 ╚══════╝╚═╝      ╚═════╝╚═╝╚══════╝  ╚═══╝  ╚══════╝   ╚═╝ \e[0m \e[91mV6.1 \e[0m
                                                       
-                                                                                          
-\e[95m  +-+-+-+-+-+-+-+-+-+-+ +-+-+ + \e[0m  
-  |B|e|E|F| |i|n| |T|e|r|m|u|x|
-\e[36m  +-+-+-+-+-+-+-+-+-+-+ +-+-+ + \e[0m  
- \e[91m        +-+-+-+-+-+-+ +-+-+-+-+-+-+-+ \e[0m 
-         |s|p|c|i|l|v|l|y |l|i|v|e|
-   \e[34m      +-+-+-+-+-+-+ +-+-+-+-+-+-+-+  \e[0m
-     \e[92m             +-+-+-+-+-+   \e[0m 
-                  |H|A|R|S|H|
-\e[93m	          +-+-+-+-+-+ \e[0m
-\e[91m Website\e[0m   -  \e[96m spcilvly.live/ \e[0m
-\e[32m Telegram\e[0m  -  \e[95m https://t.me/spcilvly \e[0m
-\e[33m YouTube\e[0m   -  \e[94m https://www.youtube.com/@spcilvly \e[0m
+                Installing | Required Packeges For beEF
 "  
 
 center() {
