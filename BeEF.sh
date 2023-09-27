@@ -8,7 +8,7 @@ echo -e "\e[32m
 ███████║██║     ╚██████╗██║███████╗ ╚████╔╝ ███████╗   ██║   
 ╚══════╝╚═╝      ╚═════╝╚═╝╚══════╝  ╚═══╝  ╚══════╝   ╚═╝ \e[0m \e[91mV6.1 \e[0m
                                                       
-                Installing | Required Packeges For beEF
+              |||Installing | Required Packeges For beEF|||
 "  
 
 center() {
