@@ -79,7 +79,7 @@ echo
 center "*** Downloading..."
 cd $PREFIX/opt
 git clone https://github.com/beefproject/beef --depth=1
-termux-open-url https://termux.xyz/how-to-install-beef-on-termux/
+termux-open-url https://spcilvly.live/installing-beef-tool-on-android-without-root/
 
 echo
 center "*** Installation..."
@@ -126,6 +126,6 @@ sed -i '442, 476 {s/^/#/};436, 438 {s/^/#/}' $PREFIX/lib/ruby/gems/3.1.0/gems/lo
 
 echo
 center "*"
-echo -e '\033[32m Setup complete Installation Now. \n\e[93m: https://termux.xyz/how-to-install-beef-on-termux/\033[0m'
-termux-open-url https://termux.xyz/how-to-install-beef-on-termux/
+echo -e '\033[32m Setup complete Installation Now. \n\e[93m: https://spcilvly.live/installing-beef-tool-on-android-without-root/\033[0m'
+termux-open-url https://spcilvly.live/installing-beef-tool-on-android-without-root/
 center "*"
